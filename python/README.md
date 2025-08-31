@@ -11,4 +11,6 @@ Uma boa forma de ver se entendeu é tentar explicar para alguém, então, finja 
    
 Durante os exercícios, aperte Ctrl+Enter para ver a resposta, mas apenas depois de concluir aquela atividade.   
 
+Obs: meus comentários são feitos de um modo que você possa ler como se estivesse feito a explicação. Está o mais humanizado que consegui. xD
+
 Um ótimo estudo a todos!  <3
