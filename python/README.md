@@ -16,7 +16,7 @@ Obs: meus comentários são feitos de um modo que você possa ler como se estive
 Um ótimo estudo a todos!  <3
 
 
-LINK das aulas no Binder:   
+**LINK das aulas no Binder:**   
 OBS: as alterações no binder são temporárias, então podem brincar a vontade.   
 
   
