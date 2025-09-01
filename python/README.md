@@ -19,6 +19,7 @@ Aula 01 - Introdução:
 
 
 Aula 02 - Operadores:   
-https://hub.2i2c.mybinder.org/user/tatahirota-ling--de-programacao-pychua8i/notebooks/python/python-aula-02-operadores.ipynb   
+https://hub.2i2c.mybinder.org/user/tatahirota-ling--de-programacao-pychua8i/notebooks/python/python-aula-02-operadores.ipynb
+
 
 Aula 03 - Estruturas:   
